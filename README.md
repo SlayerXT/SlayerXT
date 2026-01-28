@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SlayerXT
 - 👀 I’m interested in embedded system/Neurocomputing/data science
 - 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on study a little project by myself and wish to communicate with more dedicators.
+- 💞️ I’m looking to collaborate on studying a small project by myself and wish to communicate with more dedicated people.
 
               
 <!---
